@@ -1,0 +1,10 @@
+/target
+*.log
+*.tmp
+*.class
+*.jar
+*.war
+*.iml
+.DS_Store
+.gradle
+out/
